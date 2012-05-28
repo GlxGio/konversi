@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Applikasi Tugas</string>
+    <string name="nilaidari">Konversi Dari:</string>
+    <string name="nilaike">Konversi Ke:</string>
+    <string name="error">Input Bilangan Saja</string>
+</resources>
